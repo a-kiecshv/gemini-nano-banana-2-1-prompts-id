@@ -1,0 +1,17 @@
+{
+  "id": "gemini-nano-banana-2.1",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-15T17:58:16Z",
+  "prices": {},
+  "rates": {
+    "text_input": 1.2,
+    "cached_text_input": 0,
+    "image_input": 1.2,
+    "cached_image_input": 0,
+    "text_output": 6,
+    "image_output": 24
+  },
+  "unit": "usd_per_million_tokens",
+  "hook": "from $0.0137 per image on the APIMart route",
+  "model_page": "https://apimart.ai/model/nano-banana-2-1"
+}
